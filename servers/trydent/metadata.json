@@ -1,0 +1,32 @@
+{
+    "id": "trydent",
+    "name": "Trydent",
+    "store": "https://trydent.com.br",
+    "description": "The best server of minigames Minecraft Java Edition",
+    "addresses": [
+        "trydent.com.br"
+    ],
+    "primaryAddress": "trydent.com.br",
+    "primaryColor": "#ecdbc4",
+    "secondaryColor": "#2d576c",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "BedWars",
+        "Duels",
+        "The bridge",
+        "Hunger Games",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "Breve...",
+        "discord": "https://discord.gg/wTWNd6g9K8"
+    }
+}
